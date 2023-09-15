@@ -7,3 +7,4 @@
 
 ### ส่งงานที่ขาดห้อง สังคมศึกษา
 1. [คลิบสั้นแนะนำตนเอง](https://padlet.com/suwattac/padlet-aoh2ubx5udepy080)
+2. [ปฏิทินนัดหมายนักเรียน](https://padlet.com/suwattac/padlet-ngl89kdrfdzyls4n)
