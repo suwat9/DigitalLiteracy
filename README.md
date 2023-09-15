@@ -8,3 +8,5 @@
 ### ส่งงานที่ขาดห้อง สังคมศึกษา
 1. [คลิบสั้นแนะนำตนเอง](https://padlet.com/suwattac/padlet-aoh2ubx5udepy080)
 2. [ปฏิทินนัดหมายนักเรียน](https://padlet.com/suwattac/padlet-ngl89kdrfdzyls4n)
+3. ![ทำข้อสอบใน Google Form ส่งใน Line Group เทคโนโลยีดิจิทัล @ศุกร์เช้า คบ.สังคม](http://url/to/img.png)
+
