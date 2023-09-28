@@ -24,6 +24,5 @@
 1. [คลิบสั้นแนะนำตนเอง](https://padlet.com/suwattac/padlet-aoh2ubx5udepy080)
 2. [ปฏิทินนัดหมายนักเรียน](https://padlet.com/suwattac/padlet-ngl89kdrfdzyls4n)
 3. [ทำข้อสอบใน Google Form ส่งใน Line Group เทคโนโลยีดิจิทัล @ศุกร์เช้า คบ.สังคม](https://github.com/suwat9/DigitalLiteracy/blob/main/images/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%20%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5%20%40%E0%B8%A8%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8A%E0%B9%89%E0%B8%B2%20%E0%B8%84%E0%B8%9A.%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1.png)
-4. ส่งงาน AR
-   <img src="https://github.com/suwat9/DigitalLiteracy/blob/main/images/%E0%B8%AA%E0%B9%88%E0%B8%87%20AR%20%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1.png" alt="ส่งงาน AR" width="200"/>
+4. ส่งงาน AR <br> <img src="https://github.com/suwat9/DigitalLiteracy/blob/main/images/%E0%B8%AA%E0%B9%88%E0%B8%87%20AR%20%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1.png" alt="ส่งงาน AR" width="200"/>
 
