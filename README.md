@@ -5,6 +5,16 @@
 1. [ให้ AI สร้างใบความรู้](https://www.youtube.com/watch?v=4tzaQ5GtK7Q)
 1. [ตรวจสอบ Quota ของ ChatGPT](https://platform.openai.com/account/usage)
 
+### การใช้งาน AR
+การใช้ AR อย่างง่ายสำหรับงานสอน เพื่อเพิ่มความน่าสนใจ
+1. [การสร้าง AR เพื่อช่วยสอนอย่างง่าย](https://medium.com/echo3d/how-to-create-3d-content-and-see-it-in-ar-free-no-coding-required-369e5b4a4b3e)
+2. [เครื่องมือ echo3D](https://console.echo3d.com/)
+3. [ตัวอย่าง 3D Models](https://rigmodels.com/index.php?manualsearch=1&searchkeyword=pokemon)
+4. [การแปลงภาพ 2D ให้เป็น 3D](https://products.aspose.app/3d/conversion/jpg-to-glb)
+
+
+
+
 ### ส่งงานห้องพละศึกษา นาฏศิลป์
 1. [คะแนนเก็บห้อง พละศึกษา และนาฏศิลป์](https://github.com/suwat9/DigitalLiteracy/blob/main/images/Grade-%E0%B8%9E%E0%B8%A5%E0%B8%B0-%E0%B8%99%E0%B8%B2%E0%B8%8F%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C.pdf)
 1. [ปฏิทินนัดหมายนักเรียน ห้องพละ นาฏศิลป์](https://padlet.com/suwattac/padlet-ngl89kdrfdzyls4n)
