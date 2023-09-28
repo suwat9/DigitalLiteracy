@@ -20,7 +20,7 @@
 1. [ปฏิทินนัดหมายนักเรียน ห้องพละ นาฏศิลป์](https://padlet.com/suwattac/padlet-ngl89kdrfdzyls4n)
 2. ส่งงาน AR <br> <img src="https://github.com/suwat9/DigitalLiteracy/blob/main/images/%E0%B8%87%E0%B8%B2%E0%B8%99AR%20%E0%B8%9E%E0%B8%A5%E0%B8%B0.png" alt="ส่งงาน AR" width="200"/>
 
-### ส่งงานที่ขาดห้อง สังคมศึกษา
+### ส่งงานห้อง สังคมศึกษา
 1. [คะแนนเก็บห้องสังคมศึกษา](https://github.com/suwat9/DigitalLiteracy/blob/main/images/suwat-grade-1-2566.pdf)
 1. [คลิบสั้นแนะนำตนเอง](https://padlet.com/suwattac/padlet-aoh2ubx5udepy080)
 2. [ปฏิทินนัดหมายนักเรียน](https://padlet.com/suwattac/padlet-ngl89kdrfdzyls4n)
