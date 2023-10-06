@@ -34,6 +34,7 @@
 4. ส่งงาน AR <br> <img src="https://github.com/suwat9/DigitalLiteracy/blob/main/images/%E0%B8%AA%E0%B9%88%E0%B8%87%20AR%20%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1.png" alt="ส่งงาน AR" width="200"/>
 1. [หนังสือสังคมศึกษา ป.1](https://dltv.ac.th/teachplan/episode/60995)
 2. ข้อความที่ใช้
+   Subject : Daily used products
    1. Product meaning
    2. Bring knowledge about products to apply in your own daily life
    3. Recognize the benefits of using the product
