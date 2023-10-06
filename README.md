@@ -6,7 +6,7 @@
 1. [ให้ AI สร้างใบความรู้](https://www.youtube.com/watch?v=4tzaQ5GtK7Q)
 1. [ตรวจสอบ Quota ของ ChatGPT](https://platform.openai.com/account/usage)
 
-### การใช้งาน AR
+### การใช้งาน AR (Augmented Reality)
 การใช้ AR อย่างง่ายสำหรับงานสอน เพื่อเพิ่มความน่าสนใจ
 1. [การสร้าง AR เพื่อช่วยสอนอย่างง่าย](https://medium.com/echo3d/how-to-create-3d-content-and-see-it-in-ar-free-no-coding-required-369e5b4a4b3e)
 2. [เครื่องมือ echo3D](https://console.echo3d.com/)
