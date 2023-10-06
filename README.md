@@ -13,8 +13,11 @@
 3. [ตัวอย่าง 3D Models](https://rigmodels.com/index.php?manualsearch=1&searchkeyword=pokemon)
 4. [การแปลงภาพ 2D ให้เป็น 3D](https://products.aspose.app/3d/conversion/jpg-to-glb)
 
-
-
+### การใช้งาน AI
+1. [การใช้งาน AI เพื่อการเรียนการสอน](https://www.ets.kmutt.ac.th/post/ai-in-education#viewer-7cch2)
+2. [ChatGPT](https://chat.openai.com/)  [คู่มือการใช้งาน ChatGPT](https://techintegration.ets.kmutt.ac.th/download?name=%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%20ChatGPT.pdf)
+3. [Bard](https://bard.google.com/)
+4. [Bing](https://www.bing.com/)
 
 ### ส่งงานห้องพละศึกษา นาฏศิลป์
 1. [คะแนนเก็บห้อง พละศึกษา และนาฏศิลป์](https://github.com/suwat9/DigitalLiteracy/blob/main/images/Grade-%E0%B8%9E%E0%B8%A5%E0%B8%B0-%E0%B8%99%E0%B8%B2%E0%B8%8F%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C.pdf)
@@ -24,7 +27,6 @@
 
 ### ส่งงานห้อง สังคมศึกษา
 1. [คะแนนเก็บห้องสังคมศึกษา](https://github.com/suwat9/DigitalLiteracy/blob/main/images/suwat-grade-1-2566.pdf)
-2. [การใช้งาน AI เพื่อการเรียนการสอน](https://www.ets.kmutt.ac.th/post/ai-in-education#viewer-7cch2)
 1. [คลิบสั้นแนะนำตนเอง](https://padlet.com/suwattac/padlet-aoh2ubx5udepy080)
 2. [ปฏิทินนัดหมายนักเรียน](https://padlet.com/suwattac/padlet-ngl89kdrfdzyls4n)
 3. ทำข้อสอบใน Google Form ส่งใน Line Group เทคโนโลยีดิจิทัล @ศุกร์เช้า คบ.สังคม <br> <img src="https://github.com/suwat9/DigitalLiteracy/blob/main/images/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%20%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5%20%40%E0%B8%A8%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8A%E0%B9%89%E0%B8%B2%20%E0%B8%84%E0%B8%9A.%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1.png" alt='ส่งงาน Google Form' width='200'/>
