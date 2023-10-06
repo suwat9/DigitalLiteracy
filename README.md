@@ -13,7 +13,7 @@
 3. [ตัวอย่าง 3D Models](https://rigmodels.com/index.php?manualsearch=1&searchkeyword=pokemon)
 4. [การแปลงภาพ 2D ให้เป็น 3D](https://products.aspose.app/3d/conversion/jpg-to-glb)
 
-### การใช้งาน AI
+### การใช้งาน AI (Artificial Intelligence)
 1. [การใช้งาน AI เพื่อการเรียนการสอน](https://www.ets.kmutt.ac.th/post/ai-in-education#viewer-7cch2)
 2. [ChatGPT](https://chat.openai.com/)  [คู่มือการใช้งาน ChatGPT](https://techintegration.ets.kmutt.ac.th/download?name=%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%20ChatGPT.pdf)
 3. [Bard](https://bard.google.com/)
