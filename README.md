@@ -26,7 +26,7 @@
 3. ส่งงาน AR <br> <img src="https://github.com/suwat9/DigitalLiteracy/blob/main/images/%E0%B8%87%E0%B8%B2%E0%B8%99AR%20%E0%B8%9E%E0%B8%A5%E0%B8%B0.png" alt="ส่งงาน AR" width="200"/>
 4. [ส่งงาน แผนการสอนจัดทำด้วย AI & จัดทำข้อสอบด้วย AI](https://padlet.com/suwattae32_/canva-oc029irrxrsitgxh)
 5. [คู่มือการใช้งาน chatGPT](https://github.com/suwat9/DigitalLiteracy/blob/main/images/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%20ChatGPT.pdf)
-6. นัดสอบปลายภาค วันที่ 17 ตุลาคม 2566 เวลา 9.00 - 10.00 น. [Link ข้อสอบ]()
+6. นัดสอบปลายภาค วันที่ 17 ตุลาคม 2566 เวลา 9.00 - 10.00 น. ข้อสอบจำนวน 50 ข้อ เก็บคะแนน 25 คะแนน [Link ข้อสอบ]()
    
 ### ส่งงานห้อง สังคมศึกษา
 1. [คะแนนเก็บห้องสังคมศึกษา](https://github.com/suwat9/DigitalLiteracy/blob/main/images/suwat-grade-1-2566.pdf)
