@@ -41,3 +41,4 @@
    1. Product meaning
    2. Bring knowledge about products to apply in your own daily life
    3. Recognize the benefits of using the product
+1. นัดสอบปลายภาค วันที่ 17 ตุลาคม 2566 เวลา 9.00 - 10.00 น. ข้อสอบจำนวน 50 ข้อ เก็บคะแนน 25 คะแนน [Link ข้อสอบ]()
